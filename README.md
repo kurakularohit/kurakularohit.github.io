@@ -1,2 +1,3 @@
-# kurakularohit.github.io
+# Snake Game
 Simple Snake Game
+# SCREENSHOTS
